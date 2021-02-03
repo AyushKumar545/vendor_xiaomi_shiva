@@ -1,4 +1,4 @@
-<manifest version="1.0" type="device">
+<manifest version="1.0" type="shiva">
     <hal format="hidl">
         <name>vendor.mediatek.hardware.dplanner</name>
         <transport>hwbinder</transport>
